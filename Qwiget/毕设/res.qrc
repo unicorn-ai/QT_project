@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/ball_bac1.png</file>
+        <file>img/ball_bac2.png</file>
+        <file>img/ball_bac3.png</file>
+        <file>img/new2.png</file>
+        <file>img/bg01.png</file>
+        <file>img/panel.png</file>
+        <file>img/title-bg-long.png</file>
+        <file>img/titelbac.png</file>
+        <file>img/title.png</file>
+        <file>img/bg_box1.png</file>
+        <file>img/data_icon.png</file>
+        <file>img/tubiao.ico</file>
+        <file>img/jieshao.png</file>
+        <file>img/jieshao2.png</file>
+    </qresource>
+</RCC>
