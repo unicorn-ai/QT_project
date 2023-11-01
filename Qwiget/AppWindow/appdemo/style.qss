@@ -1,0 +1,234 @@
+QPushButton#mid_pushButton0 {
+background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+stop: 0 #50453c, stop: 1 #4f423e);
+border-image:url(:/appdemo/icons/women1.png);
+}
+
+QPushButton#mid_pushButton0:hover {
+border-image:url(:/appdemo/icons/women2.png);
+}
+
+QPushButton#mid_pushButton1 {
+background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+stop: 0 #50453c, stop: 1 #4f423e);
+border-image:url(:/appdemo/icons/nameofsong1.png);
+text-align: bottom;
+border: 15px;
+color: #aaaaaa;
+font-size: 15px;
+}
+
+QPushButton#mid_pushButton1:hover {
+border-image:url(:/appdemo/icons/nameofsong2.png);
+color:white;
+}
+
+QPushButton#mid_pushButton2 {
+background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+stop: 0 #50453c, stop: 1 #4f423e);
+border-image:url(:/appdemo/icons/categories1.png);
+text-align: bottom;
+border: 15px;
+color: #aaaaaa;
+font-size: 15px;
+}
+
+QPushButton#mid_pushButton2:hover {
+border-image:url(:/appdemo/icons/categories2.png);
+color:white;
+}
+
+
+QPushButton#mid_pushButton3 {
+background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+stop: 0 #50453c, stop: 1 #4f423e);
+border-image:url(:/appdemo/icons/star1.png);
+text-align: bottom;
+border: 15px;
+color: #aaaaaa;
+font-size: 15px;
+}
+
+QPushButton#mid_pushButton3:hover {
+border-image:url(:/appdemo/icons/star2.png);
+color:white;
+}
+
+QPushButton#mid_pushButton4 {
+background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+stop: 0 #50453c, stop: 1 #4f423e);
+border-image:url(:/appdemo/icons/new1.png);
+text-align: bottom;
+border: 15px;
+color: #aaaaaa;
+font-size: 15px;
+}
+
+QPushButton#mid_pushButton4:hover {
+border-image:url(:/appdemo/icons/new2.png);
+color:white;
+}
+
+QPushButton#mid_pushButton5 {
+background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+stop: 0 #50453c, stop: 1 #4f423e);
+border-image:url(:/appdemo/icons/man1.png);
+text-align: bottom;
+border: 15px;
+color: #aaaaaa;
+font-size: 15px;
+}
+
+QPushButton#mid_pushButton5:hover {
+border-image:url(:/appdemo/icons/man2.png);
+color:white;
+}
+
+QPushButton#top_pushButton0 {
+border-image:url(:/appdemo/icons/ktv-logo1.png);
+}
+
+QPushButton#top_pushButton0:hover {
+border-image:url(:/appdemo/icons/ktv-logo2.png);
+}
+
+QPushButton#top_pushButton1 {
+border-image:url(:/appdemo/icons/selectsongs1.png);
+text-align: right;
+color: #aaaaaa;
+font-size: 15px;
+font-weight: bold;
+}
+
+QPushButton#top_pushButton1:hover {
+border-image:url(:/appdemo/icons/selectsongs2.png);
+color: white;
+}
+
+QPushButton#top_pushButton2 {
+border-image:url(:/appdemo/icons/interation1.png);
+text-align: right;
+color: #aaaaaa;
+border: 20px;
+font-size: 15px;
+font-weight: bold;
+}
+
+QPushButton#top_pushButton2:hover {
+border-image:url(:/appdemo/icons/interation2.png);
+color: white;
+}
+
+QPushButton#top_pushButton3 {
+border-image:url(:/appdemo/icons/more1.png);
+text-align: right;
+color: #aaaaaa;
+border:20px;
+font-size: 15px;
+font-weight: bold;
+}
+
+QPushButton#top_pushButton3:hover {
+border-image:url(:/appdemo/icons/more2.png);
+color: white;
+}
+
+QPushButton#top_pushButton4 {
+border-image:url(:/appdemo/icons/search1.png);
+text-align: right;
+color: #aaaaaa;
+border:20px;
+font-size: 15px;
+font-weight: bold;
+}
+
+QPushButton#top_pushButton4:hover {
+border-image:url(:/appdemo/icons/search2.png);
+color: white;
+}
+
+QPushButton#bottom_pushButton0 {
+border-image:url(:/appdemo/icons/serivce1.png);
+text-align: bottom;
+color: #aaaaaa;
+font-size: 12px;
+font-weight: bold;
+}
+
+QPushButton#bottom_pushButton0:hover {
+border-image:url(:/appdemo/icons/serivce2.png);
+color: white;
+}
+
+QPushButton#bottom_pushButton1 {
+border-image:url(:/appdemo/icons/score1.png);
+text-align: bottom;
+color: #aaaaaa;
+font-size: 12px;
+font-weight: bold;
+}
+
+QPushButton#bottom_pushButton1:hover {
+border-image:url(:/appdemo/icons/score2.png);
+color: white;
+}
+
+QPushButton#bottom_pushButton2 {
+border-image:url(:/appdemo/icons/volume1.png);
+text-align: bottom;
+color: #aaaaaa;
+font-size: 12px;
+font-weight: bold;
+}
+
+QPushButton#bottom_pushButton2:hover {
+border-image:url(:/appdemo/icons/volume2.png);
+color: white;
+}
+
+QPushButton#bottom_pushButton3 {
+border-image:url(:/appdemo/icons/play1.png);
+}
+
+QPushButton#bottom_pushButton3:hover {
+border-image:url(:/appdemo/icons/play2.png);
+}
+
+QPushButton#bottom_pushButton4 {
+border-image:url(:/appdemo/icons/original1.png);
+text-align: bottom;
+color: #aaaaaa;
+font-size: 12px;
+font-weight: bold;
+}
+
+QPushButton#bottom_pushButton4:hover {
+border-image:url(:/appdemo/icons/original2.png);
+color: white;
+}
+
+QPushButton#bottom_pushButton5 {
+border-image:url(:/appdemo/icons/next1.png);
+text-align: bottom;
+color: #aaaaaa;
+font-size: 12px;
+font-weight: bold;
+}
+
+QPushButton#bottom_pushButton5:hover {
+border-image:url(:/appdemo/icons/next2.png);
+color: white;
+}
+
+QPushButton#bottom_pushButton6 {
+border-image:url(:/appdemo/icons/list1.png);
+text-align: bottom;
+color: #aaaaaa;
+font-size: 12px;
+font-weight: bold;
+}
+
+QPushButton#bottom_pushButton6:hover {
+border-image:url(:/appdemo/icons/list2.png);
+color: white;
+}
